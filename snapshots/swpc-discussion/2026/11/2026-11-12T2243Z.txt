@@ -1,0 +1,52 @@
+:Product: Forecast Discussion
+:Issued: 2026 Nov 12 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+Solar Activity
+
+.24 hr Summary...
+Solar activity reached moderate levels due to an M1.7 flare at 11/2121
+UTC from Region 4566 (S07W55, Eki/beta-gamma). Region 4566 also produced
+a C7.0 flare at 12/0344 UTC. The region continued to decay, decreasing
+in both areal coverage and magnetic complexity. Slight growth was
+observed in Region 4574 (N16E54, Dao/beta). The rest of the numbered
+regions were either stable or in decay.
+
+No Earth-directed CMEs were observed in available coronagraph imagery.
+
+.Forecast...
+Solar activity is expected to be low with a chance for M-class flares
+(R1-R2, Minor-Moderate) over 12-14 Nov.
+
+Energetic Particle
+
+.24 hr Summary...
+The greater than 2 MeV electron flux reached high levels with a peak
+flux of 7,897 pfu observed at 11/1555 UTC. The greater than 10 MeV
+proton flux was at background levels.
+
+.Forecast...
+The greater than 2 MeV electron flux is likely to reach high levels over
+12-14 Nov. The greater than 10 MeV proton flux is expected to continue
+at background levels on 12-14 Nov.
+
+Solar Wind
+
+.24 hr Summary...
+Solar wind parameters reflected continued, but diminishing influence
+from a negative polarity CH HSS. Total field ranged from 1-5 nT while
+the Bz component was between +4/-3 nT. Solar wind speed decreased from
+approximately 529 km/s to near 479 km/s. Phi angle was mostly negative
+with some variability after 11/0955 UTC.
+
+.Forecast...
+The solar wind environment is expected to gradually diminish on 12 Nov.
+A return to nominal conditions is expected by 13-14 Nov.
+
+Geospace
+
+.24 hr Summary...
+The geomagnetic field was quiet to unsettled.
+
+.Forecast...
+Mostly quiet conditions are expected on 12-14 Nov.
