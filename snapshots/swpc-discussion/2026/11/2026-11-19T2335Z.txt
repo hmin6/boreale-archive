@@ -1,0 +1,74 @@
+:Product: Forecast Discussion
+:Issued: 2026 Nov 19 2200 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+Solar Activity
+
+.24 hr Summary...
+Solar activity reached moderate levels (M1-R1) off the WSW limb at
+19/1324. C-class reached low levels from Regions 4572 (N11W62,
+Cro/beta), 4574(N15E04, Hax/alpha), 4577 (S07W60, Cro/beta), and 4581
+(S08E38, Dai/beta) during the past 24 hours.
+
+was at low levels. Region 4578 continued to produce C-class flare
+activity as it exited the western limb to include a C4.9 flare at
+18/1320 UTC. Region 4576 followed suit producing departing activity in
+the form of a C4.9 as well which peaked at 19/0049 UTC. Region 4581
+(S09E45, Dai/beta-gamma) remained noteworthy as it grew in length,
+gained additional spots and exhibited maturing penumbra on both its
+leading and trailing spots. Despite this growth, AR 4581 only produced
+C1 and C2 flares during the reporting period.
+
+Other activity included a minor eruption originating from Region 4579
+(N15E04, Hax/alpha) which began at approximately 19/0708 UTC as observed
+in GOES SUVI 304 imagery. A possibly related subsequent narrow and faint
+CME was then seen in LASCO C2 and STEREO-A coronagraph imagery beginning
+near 19/0924 UTC and 19/0753 UTC, respectively. Modeling of this event
+was attempted with results pending still pending as of the time of this
+writing.
+
+.Forecast...
+Solar activity is expected to be at a chance for M-class flares (R1-R2,
+Minor-Moderate) on 19 Nov. Probabilities for M-class events decrease to
+a slight chance on 20-22 Nov as Region 4578 fully exits the western
+limb.
+
+Energetic Particle
+
+.24 hr Summary...
+The greater than 2 MeV electron flux reached high levels with a peak
+flux of 1,004 pfu observed at one five minute interval at 18/1630 UTC.
+The greater than 10 MeV proton flux was at background levels.
+
+.Forecast...
+The greater than 2 MeV electron flux is expected to reach high levels on
+19-21 Nov. The greater than 10 MeV proton flux is expected to continue
+at background levels on through 21 Nov.
+
+Solar Wind
+
+.24 hr Summary...
+Solar wind parameters reflected relatively weak positive polarity CH HSS
+influences. Total fiend generally ranged 3-6 nT. The Bz component of the
+IMF underwent a few sustained southward deflections reaching -3 to - 4
+nT, but was otherwise near neutral or northward. Solar wind speeds
+decreased from ~600 km/s to about 385 km/s by periods end. Phi was
+mostly predominantly through the period.
+
+.Forecast...
+Sustained positive polarity CH HSS influences are expected to persist
+for the beginning of 20 Nov and the potential onset of a weak negative
+polarity CH HSS on 21 Nov. This will likely be the cause of additional
+disturbances on those respective days.
+
+Geospace
+
+.24 hr Summary...
+The geomagnetic field was largely unsettled to isolated active periods
+geomagnetic storm period at the end of the 19 Nov UTC.
+
+.Forecast...
+Primarily quiet to unsettled conditions are expected through 21 Nov with
+a chance for isolated active periods due to coronal hole influences.
+Unsettled to active periods are expected on 22 Nov with additional
+coronal hole and CME influences.
