@@ -1,0 +1,60 @@
+:Product: Forecast Discussion
+:Issued: 2026 Nov 20 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+Solar Activity
+
+.24 hr Summary...
+Solar activity reached moderate (R1-Minor) levels following an M2.4
+flare off the WSW limb at 19/1324 UTC and an M1.1 flare from Region 4572
+(N11W70, Axx/alpha) at 19/1359 UTC. Late in the period, Region 4579
+(N16W02, Hsx/alpha) added a C9.6 flare that peaked at 20/1130 UTC.
+Regions 4572, 4574 (N16W51, Axx/alpha), 4577 (S06W66, Axx/alpha), and
+4581 (S07E14, Dso/beta) all contributed low-level C-class flares during
+the past 24 hours, despite reflecting either stagnant or decaying
+trends.
+
+Modeling of the previously discussed eruption was attempted with
+questionable results, at best. With only a handful of available/useful
+coronagraph images, analysis indicated a possible arrival at Earth just
+outside this forecast period. Confidence is low with this forecast.
+
+.Forecast...
+Solar activity is likely to be at low levels, with a slight chance for
+M-class flares (R1-R2, Minor-Moderate) on 20-22 Nov.
+
+Energetic Particle
+
+.24 hr Summary...
+The greater than 2 MeV electron flux reached moderate levels. The
+greater than 10 MeV proton flux was at background levels.
+
+.Forecast...
+The greater than 2 MeV electron flux is expected to be at moderate
+levels on 20-22 Nov. The greater than 10 MeV proton flux is expected to
+continue at background levels on through 22 Nov.
+
+Solar Wind
+
+.24 hr Summary...
+Solar wind parameters were near background levels. Total field (Bt)
+averaged 4-8 nT, while the Bz component saw southward deflections
+reaching -6 nT early before turning northward by the end of the period.
+Solar wind speeds gradually decreased from ~470-500 km/s to around 390
+km/s. Phi was predominantly positive through the period.
+
+.Forecast...
+Continued background conditions are likely over 20 Nov - 22 Nov. Slight
+enhancements are possible during the period if the weakened, nearly
+closed, negative polarity CH HSS moves into a geoeffective position.
+
+Geospace
+
+.24 hr Summary...
+The geomagnetic field was quiet to unsettled.
+
+.Forecast...
+Primarily quiet to unsettled conditions are expected through 21 Nov,
+with a chance for isolated active periods due to coronal hole
+influences. Unsettled to active periods are expected on 22 Nov with
+additional coronal hole and possible CME influences.
