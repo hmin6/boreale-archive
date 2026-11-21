@@ -1,0 +1,56 @@
+:Product: Forecast Discussion
+:Issued: 2026 Nov 21 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+Solar Activity
+
+.24 hr Summary...
+Solar activity dropped to very low levels with only B-level enhancements
+observed. Region 4579 (N14W16, Cso/beta) added a few trailer spots and
+was the only region to show growth during the period. Region 4581
+(S07E18, Dso/beta) exhibited overall decay, while the remaining regions
+decayed to plage as they rotated towards the west limb.
+
+No Earth-directed CMEs were identified in the available coronagraph
+imagery during the period.
+
+.Forecast...
+Solar activity is likely to be at low levels, with a slight chance for
+M-class flares (R1-R2, Minor-Moderate) on 21-23 Nov.
+
+Energetic Particle
+
+.24 hr Summary...
+The greater than 2 MeV electron flux remained at moderate levels. The
+greater than 10 MeV proton flux continued at background levels.
+
+.Forecast...
+The greater than 2 MeV electron flux is expected to be at moderate
+levels on 21-22 Nov, reaching high levels on 23 Nov. The greater than 10
+MeV proton flux is expected to continue at background levels on through
+23 Nov.
+
+Solar Wind
+
+.24 hr Summary...
+Solar wind parameters were indicative of a nominal solar wind regime.
+Total interplanetary magnetic field (Bt) averaged around 5 nT, the Bz
+component fluctuated between +/- 5 nT, and solar wind speeds decreased
+further, from ~385 km/s down to ~345 km/s. Phi was positive through the
+whole reported period.
+
+.Forecast...
+Continued background solar wind conditions are likely on 21-22 Nov.
+Slight enhancements are possible on 23 Nov due to a low confidence
+glancing blow of CMEs from 14 Nov and 19 Nov.
+
+Geospace
+
+.24 hr Summary...
+The geomagnetic field has been at mostly quiet levels, with an isolated
+unsettled period during the 21/0000-0003 UTC synoptic period.
+
+.Forecast...
+Quiet to unsettled conditions are expected on 21-22 Nov. Quiet to active
+periods are expected on 22 Nov, with a slight chance for isolated G1
+(Minor) storming period due to the possible CME(s) glancing influences.
