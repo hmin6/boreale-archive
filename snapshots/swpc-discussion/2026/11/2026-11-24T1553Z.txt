@@ -1,0 +1,50 @@
+:Product: Forecast Discussion
+:Issued: 2026 Nov 24 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+Solar Activity
+
+.24 hr Summary...
+Solar activity continued at very low levels with only B-level
+enhancements. Region 4581 (S10W29, Hrx/alpha) underwent significant
+decay, losing its trailing spots. Region 4582 (N18E54, Cro/beta) emerged
+during the period, was subsequently numbered, but remained quiet. No
+Earth-directed CMEs were observed in available coronagraph imagery.
+
+.Forecast...
+Solar activity is expected to be at very low levels, with a slight
+chance for C-class flares on 24-26 Nov.
+
+Energetic Particle
+
+.24 hr Summary...
+The greater than 2 MeV electron flux remained at moderate levels. The
+greater than 10 MeV proton flux continued at background levels.
+
+.Forecast...
+The greater than 2 MeV electron flux is expected to be at normal to
+moderate levels on 24-26 Nov. The greater than 10 MeV proton flux is
+expected to continue at background levels on through 26 Nov.
+
+Solar Wind
+
+.24 hr Summary...
+Solar wind parameters continued at background levels. Total magnetic
+field (Bt) was between 1-5 nT, with a Bz component between +/- 4 nT.
+Solar wind speeds averaged roughly 320 km/s throughout the reporting
+period. Phi became predominantly positive after 24/0255 UTC.
+
+.Forecast...
+Ambient solar wind conditions are expected to prevail on 24-25 Nov and
+into 26 Nov. A positive polarity coronal hole high speed stream (CH HSS)
+may begin onset late on 26 Nov, bringing enhanced solar wind conditions.
+
+Geospace
+
+.24 hr Summary...
+Geomagnetic field activity was at quiet levels throughout the period.
+
+.Forecast...
+Mostly quiet conditions are expected to prevail on 24-25 Nov, with
+isolated active periods possible late on 26 Nov due to positive polarity
+CH HSS onset.
