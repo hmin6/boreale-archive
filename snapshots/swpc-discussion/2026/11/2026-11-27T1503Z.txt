@@ -1,0 +1,54 @@
+:Product: Forecast Discussion
+:Issued: 2026 Nov 27 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+Solar Activity
+
+.24 hr Summary...
+Solar activity continued at very low levels with only B-level
+enhancements observed. Two new regions of emerging flux were noted in
+the E. hemisphere and will be assigned active region numbers if they
+persist. No Earth-directed CMEs were observed in available coronagraph
+imagery.
+
+.Forecast...
+Solar activity is expected to be at very low levels, with a slight
+chance for C-class flares on 27-29 Nov.
+
+Energetic Particle
+
+.24 hr Summary...
+The greater than 2 MeV electron flux remained at moderate levels. The
+greater than 10 MeV proton flux continued at background levels.
+
+.Forecast...
+The greater than 2 MeV electron flux is expected to be at normal to
+moderate levels on 27-28 Nov, with high levels likely by 29 Nov. The
+greater than 10 MeV proton flux is expected to continue at background
+levels through 29 Nov.
+
+Solar Wind
+
+.24 hr Summary...
+Solar wind parameters transitioned from nominal conditions to mildly
+enhanced after 27/0530 UTC. A steady increase in total magnetic field
+strength, up to a peak of ~13 nT at 27/1118 UTC. No significant periods
+of Bz south were observed. Solar wind speeds remained low, with speeds
+ranging from 276-346 km/s. Phi angle was predominantly oriented in the
+positive solar sector.
+
+.Forecast...
+Enhanced solar wind conditions due to positive polarity CH HSS
+influences are expected on 27-28 Nov, with background levels likely to
+return by 29 Nov.
+
+Geospace
+
+.24 hr Summary...
+Geomagnetic field activity was quiet.
+
+.Forecast...
+Isolated G1 (Minor) geomagnetic storms are likely on 27 Nov and
+unsettled to active conditions on 28 Nov due to the positive polarity CH
+HSS moving through near-Earth space. 29 Nov is expected to see a
+returned to quiet conditions.
